@@ -1,7 +1,8 @@
 #' - Script citation:
 #' Rolf Simoes, Adeline Maciel, Pedro Andrade, Lorena Santos, 
 #' Gilberto Camara, and Michelle Picoli. Source code for: Land use and cover 
-#' change maps for Mato Grosso State in Brazil. (July 2019).
+#' change maps for Mato Grosso State in Brazil. (July 2019). Available 
+#' at: https://doi.org/10.5281/zenodo.3354380
 #'
 #' - Description:
 #' This R script was used to do the classification and post processing of the
